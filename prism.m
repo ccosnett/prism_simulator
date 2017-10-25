@@ -10,7 +10,7 @@
 (* :Mathematica Version: *)
 (* :Copyright: (c) 2017 johncosnett *)
 (* :Keywords: *)
-(* :Discussion: simple ray tracing and internal reflections (apologies for lack of comments)*)
+(* :Discussion: simple ray tracing and internal reflections using snell's law and the law of reflection*)
 
 
 BeginPackage["prism`"(*,{"snell1`","snell2`","botPoint1`","lefPoint1`","righPoint1`","botPoint2`","lefPoint2`","righPoint2`"}*)];
