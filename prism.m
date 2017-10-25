@@ -1,3 +1,18 @@
+(* Mathematica Package *)
+(* Created by Mathematica Plugin for IntelliJ IDEA *)
+
+(* :Title: prism *)
+(* :Context: prism` *)
+(* :Author: johncosnett *)
+(* :Date: 2017-10-25 *)
+
+(* :Package Version: 0.1 *)
+(* :Mathematica Version: *)
+(* :Copyright: (c) 2017 johncosnett *)
+(* :Keywords: *)
+(* :Discussion: simple ray tracing and internal reflections (apologies for lack of comments)*)
+
+
 BeginPackage["prism`"(*,{"snell1`","snell2`","botPoint1`","lefPoint1`","righPoint1`","botPoint2`","lefPoint2`","righPoint2`"}*)];
 (** main construct **)
 s::usage = "s[]";

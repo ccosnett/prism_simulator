@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    168725,       2983]
-NotebookOptionsPosition[    166305,       2915]
-NotebookOutlinePosition[    166690,       2932]
-CellTagsIndexPosition[    166647,       2929]
+NotebookDataLength[    168483,       2980]
+NotebookOptionsPosition[    166062,       2912]
+NotebookOutlinePosition[    166448,       2929]
+CellTagsIndexPosition[    166405,       2926]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -40,22 +40,26 @@ Cell[BoxData[
       RowBox[{"\[Theta]", ",", "n"}], "]"}], ",", "\[IndentingNewLine]", 
      RowBox[{"sourceRay2", "[", 
       RowBox[{"\[Theta]", ",", "n"}], "]"}], ",", "\[IndentingNewLine]", 
-     RowBox[{"sourceRay3", "[", 
-      RowBox[{"\[Theta]", ",", "n"}], "]"}], ",", "\[IndentingNewLine]", 
-     "\[IndentingNewLine]", 
-     RowBox[{"ray1", "[", 
-      RowBox[{"\[Theta]", ",", "n"}], "]"}], ",", "\[IndentingNewLine]", 
-     RowBox[{"ray2", "[", 
-      RowBox[{"\[Theta]", ",", "n"}], "]"}], ",", "\[IndentingNewLine]", 
-     RowBox[{"ray3", "[", 
-      RowBox[{"\[Theta]", ",", "n"}], "]"}], ",", "\[IndentingNewLine]", 
-     RowBox[{"ray4", "[", 
-      RowBox[{"\[Theta]", ",", "n"}], "]"}], ",", "\[IndentingNewLine]", 
-     RowBox[{"ray5", "[", 
-      RowBox[{"\[Theta]", ",", "n"}], "]"}], ",", "\[IndentingNewLine]", 
-     RowBox[{"ray6", "[", 
-      RowBox[{"\[Theta]", ",", "n"}], "]"}], ",", "\[IndentingNewLine]", 
-     "\[IndentingNewLine]", 
+     RowBox[{"(*", 
+      RowBox[{
+       RowBox[{"sourceRay3", "[", 
+        RowBox[{"\[Theta]", ",", "n"}], "]"}], ","}], "*)"}], 
+     "\[IndentingNewLine]", "\[IndentingNewLine]", 
+     RowBox[{"(*", 
+      RowBox[{
+       RowBox[{"ray1", "[", 
+        RowBox[{"\[Theta]", ",", "n"}], "]"}], ",", "\[IndentingNewLine]", 
+       RowBox[{"ray2", "[", 
+        RowBox[{"\[Theta]", ",", "n"}], "]"}], ",", "\[IndentingNewLine]", 
+       RowBox[{"ray3", "[", 
+        RowBox[{"\[Theta]", ",", "n"}], "]"}], ",", "\[IndentingNewLine]", 
+       RowBox[{"ray4", "[", 
+        RowBox[{"\[Theta]", ",", "n"}], "]"}], ",", "\[IndentingNewLine]", 
+       RowBox[{"ray5", "[", 
+        RowBox[{"\[Theta]", ",", "n"}], "]"}], ",", "\[IndentingNewLine]", 
+       RowBox[{"ray6", "[", 
+        RowBox[{"\[Theta]", ",", "n"}], "]"}], ","}], "*)"}], 
+     "\[IndentingNewLine]", "\[IndentingNewLine]", 
      RowBox[{"txtDelta", "[", 
       RowBox[{"\[Theta]", ",", "n"}], "]"}], ",", "\[IndentingNewLine]", 
      RowBox[{"txtN", "[", 
@@ -172,14 +176,14 @@ Cell[BoxData[
    3.717053856733159*^9}, {3.7170541603067102`*^9, 3.717054162737893*^9}, {
    3.717054748276655*^9, 3.717054777707076*^9}, {3.717055373391589*^9, 
    3.717055386540202*^9}, {3.717059486094757*^9, 3.717059525620183*^9}, {
-   3.717059562195574*^9, 
-   3.7170595883296022`*^9}},ExpressionUUID->"39f4f4ed-8071-4318-9c87-\
+   3.717059562195574*^9, 3.7170595883296022`*^9}, {3.717726508328843*^9, 
+   3.717726541676654*^9}},ExpressionUUID->"39f4f4ed-8071-4318-9c87-\
 6ca660775823"],
 
 Cell[BoxData[
  TagBox[
   StyleBox[
-   DynamicModuleBox[{$CellContext`n$$ = 1.76, $CellContext`\[Theta]$$ = 
+   DynamicModuleBox[{$CellContext`n$$ = 1.001, $CellContext`\[Theta]$$ = 
     Rational[11, 40] Pi, Typeset`show$$ = True, Typeset`bookmarkList$$ = {}, 
     Typeset`bookmarkMode$$ = "Menu", Typeset`animator$$, Typeset`animvar$$ = 
     1, Typeset`name$$ = "\"untitled\"", Typeset`specs$$ = {{{
@@ -187,13 +191,13 @@ Cell[BoxData[
       Hold[$CellContext`\[Theta]$$], Rational[11, 40] Pi, Rational[1, 2] Pi, 
       Rational[1, 200] Pi}}, Typeset`size$$ = {540., {165., 173.}}, 
     Typeset`update$$ = 0, Typeset`initDone$$, Typeset`skipInitDone$$ = 
-    True, $CellContext`n$27448$$ = 0, $CellContext`\[Theta]$27449$$ = 0}, 
+    True, $CellContext`n$57055$$ = 0, $CellContext`\[Theta]$57056$$ = 0}, 
     DynamicBox[Manipulate`ManipulateBoxes[
      1, StandardForm, 
       "Variables" :> {$CellContext`n$$ = 1.76, $CellContext`\[Theta]$$ = 
         Rational[11, 40] Pi}, "ControllerVariables" :> {
-        Hold[$CellContext`n$$, $CellContext`n$27448$$, 0], 
-        Hold[$CellContext`\[Theta]$$, $CellContext`\[Theta]$27449$$, 0]}, 
+        Hold[$CellContext`n$$, $CellContext`n$57055$$, 0], 
+        Hold[$CellContext`\[Theta]$$, $CellContext`\[Theta]$57056$$, 0]}, 
       "OtherVariables" :> {
        Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
         Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
@@ -203,13 +207,6 @@ Cell[BoxData[
         prism`internalRay0[$CellContext`\[Theta]$$, $CellContext`n$$], 
         prism`sourceRay[$CellContext`\[Theta]$$, $CellContext`n$$], 
         prism`sourceRay2[$CellContext`\[Theta]$$, $CellContext`n$$], 
-        prism`sourceRay3[$CellContext`\[Theta]$$, $CellContext`n$$], 
-        prism`ray1[$CellContext`\[Theta]$$, $CellContext`n$$], 
-        prism`ray2[$CellContext`\[Theta]$$, $CellContext`n$$], 
-        prism`ray3[$CellContext`\[Theta]$$, $CellContext`n$$], 
-        prism`ray4[$CellContext`\[Theta]$$, $CellContext`n$$], 
-        prism`ray5[$CellContext`\[Theta]$$, $CellContext`n$$], 
-        prism`ray6[$CellContext`\[Theta]$$, $CellContext`n$$], 
         prism`txtDelta[$CellContext`\[Theta]$$, $CellContext`n$$], 
         prism`txtN[$CellContext`\[Theta]$$, $CellContext`n$$], 
         prism`txtThetaI1[$CellContext`\[Theta]$$, $CellContext`n$$], 
@@ -217,7 +214,7 @@ Cell[BoxData[
       "Specifications" :> {{{$CellContext`n$$, 1.76}, 1.001, 2, 
          0.01}, {$CellContext`\[Theta]$$, Rational[11, 40] Pi, Rational[1, 2] 
          Pi, Rational[1, 200] Pi}}, "Options" :> {}, "DefaultOptions" :> {}],
-     ImageSizeCache->{606., {242., 250.}},
+     ImageSizeCache->{606., {281., 289.}},
      SingleEvaluation->True],
     Deinitialization:>None,
     DynamicModuleValues:>{},
@@ -242,9 +239,9 @@ Cell[BoxData[
    3.71705587061414*^9}, 3.717055912698409*^9, 3.717056090702026*^9, {
    3.7170595019568253`*^9, 3.717059526158204*^9}, {3.717059577631369*^9, 
    3.717059588722807*^9}, 3.717069562437562*^9, {3.717428062320375*^9, 
-   3.717428077426916*^9}, 
-   3.71772620504738*^9},ExpressionUUID->"8761f422-43dd-480f-abd2-\
-8d81b4f19716"]
+   3.717428077426916*^9}, 3.71772620504738*^9, {3.717726514190887*^9, 
+   3.717726542527422*^9}},ExpressionUUID->"4c28d1cc-7076-4e00-9451-\
+fe0660ab8848"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -2913,8 +2910,8 @@ cwH/AQgcPvA=
 }, Open  ]]
 }, Open  ]]
 },
-WindowSize->{808, 911},
-WindowMargins->{{383, Automatic}, {Automatic, 0}},
+WindowSize->{1280, 1391},
+WindowMargins->{{0, Automatic}, {Automatic, -1}},
 Magnification:>1.5 Inherited,
 FrontEndVersion->"11.1 for Mac OS X x86 (32-bit, 64-bit Kernel) (March 16, \
 2017)",
@@ -2934,54 +2931,54 @@ Notebook[{
 Cell[558, 20, 176, 4, 49, "Input", "ExpressionUUID" -> \
 "b14228a5-4d2e-4343-b405-8572708d40f5"],
 Cell[CellGroupData[{
-Cell[759, 28, 9424, 148, 797, "Input", "ExpressionUUID" -> \
+Cell[759, 28, 9588, 152, 797, "Input", "ExpressionUUID" -> \
 "39f4f4ed-8071-4318-9c87-6ca660775823"],
-Cell[10186, 178, 4032, 68, 517, "Output", "ExpressionUUID" -> \
-"8761f422-43dd-480f-abd2-8d81b4f19716"]
+Cell[10350, 182, 3625, 61, 595, "Output", "ExpressionUUID" -> \
+"4c28d1cc-7076-4e00-9451-fe0660ab8848"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[14255, 251, 207, 4, 96, "Section", "ExpressionUUID" -> \
+Cell[14012, 248, 207, 4, 96, "Section", "ExpressionUUID" -> \
 "b2f2c1a2-4b5a-48df-af0a-ec5c4ff7a74f"],
-Cell[14465, 257, 47295, 785, 138, "Text", "ExpressionUUID" -> \
+Cell[14222, 254, 47295, 785, 138, "Text", "ExpressionUUID" -> \
 "c51d450d-4ca8-414e-b0b7-8cec03569ed7"],
 Cell[CellGroupData[{
-Cell[61785, 1046, 1721, 52, 351, "Input", "ExpressionUUID" -> \
+Cell[61542, 1043, 1721, 52, 247, "Input", "ExpressionUUID" -> \
 "4a34a023-e4ba-4ccf-a5f7-6cb3a477a36b"],
-Cell[63509, 1100, 596, 13, 59, "Message", "ExpressionUUID" -> \
+Cell[63266, 1097, 596, 13, 34, "Message", "ExpressionUUID" -> \
 "3fb0d0ca-dfce-490e-91ff-f95f0478cb04"],
-Cell[64108, 1115, 388, 6, 49, "Output", "ExpressionUUID" -> \
+Cell[63865, 1112, 388, 6, 49, "Output", "ExpressionUUID" -> \
 "1e7ed244-d2e9-40b6-a418-eb06f92159f7"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[64545, 1127, 160, 3, 96, "Section", "ExpressionUUID" -> \
+Cell[64302, 1124, 160, 3, 96, "Section", "ExpressionUUID" -> \
 "59f06c94-4d12-4ca0-895b-c880ef7df7ed"],
 Cell[CellGroupData[{
-Cell[64730, 1134, 677, 20, 144, "Input", "ExpressionUUID" -> \
+Cell[64487, 1131, 677, 20, 144, "Input", "ExpressionUUID" -> \
 "1eb0121c-891f-45d4-b7e2-b38032691d8c"],
-Cell[65410, 1156, 485, 11, 49, "Output", "ExpressionUUID" -> \
+Cell[65167, 1153, 485, 11, 49, "Output", "ExpressionUUID" -> \
 "759de64b-e1ce-40f2-8194-00a64a67ce96"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[65944, 1173, 152, 3, 96, "Section", "ExpressionUUID" -> \
+Cell[65701, 1170, 152, 3, 96, "Section", "ExpressionUUID" -> \
 "e233634a-e8bc-47ef-92b0-92f1ce23c896"],
-Cell[66099, 1178, 568, 19, 131, "Input", "ExpressionUUID" -> \
+Cell[65856, 1175, 568, 19, 131, "Input", "ExpressionUUID" -> \
 "aead5945-d2d4-4200-ba51-6d76d88b2ff8"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[66704, 1202, 169, 3, 96, "Section", "ExpressionUUID" -> \
+Cell[66461, 1199, 169, 3, 96, "Section", "ExpressionUUID" -> \
 "b390a8b4-3bbf-4e83-a90b-b9b7690d7fdb"],
 Cell[CellGroupData[{
-Cell[66898, 1209, 47249, 783, 139, "Input", "ExpressionUUID" -> \
+Cell[66655, 1206, 47249, 783, 139, "Input", "ExpressionUUID" -> \
 "2548eabe-3027-4695-bdd2-68c602f7ff04"],
-Cell[114150, 1994, 47370, 786, 139, "Output", "ExpressionUUID" -> \
+Cell[113907, 1991, 47370, 786, 139, "Output", "ExpressionUUID" -> \
 "4f65afdc-45f7-4844-8739-4cfcb870f36b"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[161557, 2785, 2365, 70, 436, "Input", "ExpressionUUID" -> \
+Cell[161314, 2782, 2365, 70, 436, "Input", "ExpressionUUID" -> \
 "727ae655-2ac9-4a24-bae9-bf830a6b841a"],
-Cell[163925, 2857, 2352, 54, 366, "Output", "ExpressionUUID" -> \
+Cell[163682, 2854, 2352, 54, 366, "Output", "ExpressionUUID" -> \
 "83d41bec-ffdc-4e40-8f3d-18af3e8b0b74"]
 }, Open  ]]
 }, Open  ]]
