@@ -3,7 +3,7 @@
 This is a tiny mathematica simulation of rays being deflected by a prism.
 By measuring the deflection of different laser beams one can measure the refractive index of a prism
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/ccosnett/prism_simulator/blob/master/prism2.gif)
 
 
 
