@@ -1,3 +1,5 @@
 # prism_simulator
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7HsFvaUFguA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7HsFvaUFguA/0.jpg)](https://www.youtube.com/watch?v=7HsFvaUFguA)
+
+
