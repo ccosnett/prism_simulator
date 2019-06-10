@@ -5,7 +5,7 @@ The refractive index of a material can be determined indirectly from measurement
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;n=\frac{\sin{(\frac{\delta_{m}+\alpha}{2})}}{\sin{(\frac{\alpha}{2})}}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\delta(\theta_{i1})=\frac{\sin{(\frac{\delta_{m}+\alpha}{2})}}{\sin{(\frac{\alpha}{2})}}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\delta(\theta_{i1})=x" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
 
 
