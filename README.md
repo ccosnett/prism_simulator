@@ -4,6 +4,8 @@ This is a tiny simulation of rays being deflected by a prism.
 By measuring the deflection of different laser beams one can measure the refractive index of a prism
 
 
+[comment]: <> (https://stackoverflow.com/questions/11804820/embed-a-youtube-video)
+
 
 # Download intructions
 
