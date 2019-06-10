@@ -7,7 +7,7 @@ The refractive index of a material can be determined indirectly from measurement
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;\delta(\theta_{i1})=\theta_{i1}+\arcsin\[\sin(\alpha)(\sqrt{n^{2}-\sin(\theta_{i1})^{2}})-(\sin(\theta_{i1}))(\cos(\alpha))\]-\alpha" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
-<p>&alpha;	 is the corner angle of the prism.</p>
+<p><b>&alpha;</b>		 is the corner angle of the prism.</p>
 <p> <b>n</b>	 is the refractive index of the material.</p>
 <p> <b>&theta;</b><sub>i1</sub>	 is the angle of incidence of the ray (see Hecht Optics p80).</p>
 <p> <b>&delta;</b>	 is the deviation angle.</p>
