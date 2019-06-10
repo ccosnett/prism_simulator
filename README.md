@@ -9,7 +9,7 @@ The refractive index of a material can be determined indirectly from measurement
 
 <p><b>&alpha;</b>		 is the corner angle of the prism.</p>
 <p> <b>n</b>	 is the refractive index of the material.</p>
-<p> <b>&theta;</b><sub>i1</sub>	 is the angle of incidence of the ray (see Hecht Optics p80).</p>
+<p> <b>&theta;</b><sub>i1</sub>	 is the angle of incidence of the ray (see Hecht Optics p188).</p>
 <p> <b>&delta;</b>	 is the deviation angle.</p>
 <p> <b>&delta;</b><sub>m</sub>	 is the minimum deviation angle.</p>
 
