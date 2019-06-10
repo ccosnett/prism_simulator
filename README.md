@@ -9,7 +9,7 @@ The refractive index of a material can be determined indirectly from measurement
 
 where
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\alpha=\text{corner angle of prism}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\text{corner}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
 
 The mimimum deviation angle occurs when the internal reflections form a (low energy?) symmetrical arrangement.
