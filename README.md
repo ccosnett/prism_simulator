@@ -1,7 +1,13 @@
 # prism_simulator
 
-This is a tiny mathematica simulation of rays being deflected by a prism.
-By measuring the deflection of different laser beams one can measure the refractive index of a prism
+The refractive index of a material can be determined indirectly from measurements of the *minimum deviation angle* of a ray through the material (when the material is made into a prism).  
+
+
+
+The mimimum deviation angle occurs when the internal reflections form a low energy symmetrical arrangement.
+
+This mathematica program was made to help me and my lab partner understand this phenomenon.
+
 
 ![Alt Text](https://github.com/ccosnett/prism_simulator/blob/master/prism2.gif)
 
