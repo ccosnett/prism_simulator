@@ -3,7 +3,7 @@
 The refractive index of a material can be determined indirectly from measurements of the *minimum deviation angle* of a ray through the material (when the material is made into a prism).  
 
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;n=\frac{-b\pm\sqrt{x^3-4ac}}{\sin{\alpha}}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;n=\frac{\sin{\frac{\delta+\alpha}{2}}}{\sin{\alpha}}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
 
 The mimimum deviation angle occurs when the internal reflections form a (low energy?) symmetrical arrangement.
