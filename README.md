@@ -7,8 +7,7 @@ The refractive index of a material can be determined indirectly from measurement
 
 The mimimum deviation angle occurs when the internal reflections form a (low energy?) symmetrical arrangement.
 
-When the inner ray is parallel with the base of the prism the system undergoes a unique state of
-symmetry and the internal reflections merge with the transmitted ray.
+
 
 This mathematica program was made to help me and my lab partner understand this phenomenon.
 
@@ -18,6 +17,17 @@ This mathematica program was made to help me and my lab partner understand this 
 
 
 [comment]: <> (https://stackoverflow.com/questions/11804820/embed-a-youtube-video)
+
+# stills 
+
+
+When the inner ray is parallel with the base of the prism the system undergoes a unique state of
+symmetry and the internal reflections merge with the transmitted ray.
+
+![Alt Text](https://github.com/ccosnett/prism_simulator/blob/master/misc/9.png)
+
+![Alt Text](https://github.com/ccosnett/prism_simulator/blob/master/out.png)
+
 
 
 # Download intructions
