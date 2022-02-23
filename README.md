@@ -20,7 +20,7 @@ The mimimum deviation angle occurs when the internal reflections form a (low ene
 
 
 
-This mathematica program was made to help me and my lab partner understand this phenomenon.
+This Wolfram Language program was made to help me and my lab partner understand this phenomenon.
 
 
 ![Alt Text](https://github.com/ccosnett/prism_simulator/blob/master/prism2.gif)
