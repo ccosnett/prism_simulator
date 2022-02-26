@@ -33,7 +33,7 @@ This Wolfram Language program was made to help me and my lab partner understand 
 
 
 When the inner ray is parallel with the base of the prism the system undergoes a unique state of
-symmetry and the internal reflections merge with the transmitted ray.
+symmetry in which the internal reflections merge with the transmitted ray.
 
 ![Alt Text](https://github.com/ccosnett/prism_simulator/blob/master/misc/9.png)
 
